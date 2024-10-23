@@ -1,0 +1,1 @@
+# confluence-version-history-cleanup
